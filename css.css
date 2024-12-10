@@ -1,0 +1,10 @@
+header {
+    color: rgb(73, 248, 4);
+    text-align:center;
+    text-shadow: 3px 2px #000;
+}
+
+footer {
+    background-color: rgb(226, 110, 43);
+    font-size: 20px;
+}
